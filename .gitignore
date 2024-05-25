@@ -161,3 +161,4 @@ cython_debug/
 
 # pycharm cache ignore
 .idea
+.vscode
